@@ -1,8 +1,10 @@
 2026-09-16
 
-<!-- notify 1/2 · megXQLEX -->
-## Notification 1/2
-Round: Round 1
-To: angelwings12745@yahoo.com, angelwings12772001@yahoo.com
-At: 2026-09-16 17:56:56
-Id: megXQLEX
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2
+Round: Round 2
+To: angelwings953a@yahoo.com, angelwingschildishthings@yahoo.com
+At: 2026-09-16 17:57:25
+Id: rEGwa3S3
